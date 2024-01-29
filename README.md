@@ -1,5 +1,5 @@
-## Hi there 👋
-### It's Me Roshan also known as Tony106Stark.
+<h2 align="center> Hi there 👋</h2>
+<h3 align="center> It's Me Roshan also known as Tony106Stark. </h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
