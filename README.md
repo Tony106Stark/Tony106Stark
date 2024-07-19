@@ -27,9 +27,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGc3YWJsbzlqcjA3aTg1NHFnaXI5cHpyZnlmN2VyaWtudHdwYWd3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ECgSx97zIAaR62CLz3/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ---
 
@@ -62,6 +62,7 @@ I am a Full Stack Developer <!-- <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
