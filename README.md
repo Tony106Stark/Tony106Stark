@@ -144,7 +144,7 @@ I'm always open to connecting with fellow developers and enthusiasts. Feel free 
 
 *   *(Example: Contributed to the documentation of Project X)* -->
 
-## My Certifications 📑
+<!-- ## My Certifications 📑 -->
 
 ## Current Focus 🎯
 
