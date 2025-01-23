@@ -144,6 +144,8 @@ I'm always open to connecting with fellow developers and enthusiasts. Feel free 
 
 *   *(Example: Contributed to the documentation of Project X)* -->
 
+## My Certifications 📑
+
 ## Current Focus 🎯
 
 I am currently focusing on deepening my knowledge of React, exploring advanced state management techniques, and expanding my backend skills with Node.js and Python/Django. I'm also actively looking for opportunities to contribute to open-source projects, particularly in the web development domain.
