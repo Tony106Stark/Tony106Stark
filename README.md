@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tony106Stark&theme=highcontrast&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tony106Stark&theme=highcontrast&border_radius=20&card_width=500&card_height=200)](https://git.io/streak-stats)
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tony106Stark&theme=highcontrast&border_radius=20&card_width=500&card_height=200" alt="GitHub Streak" /></a> -->
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony106stark&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony106stark&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
